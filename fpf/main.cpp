@@ -72,8 +72,7 @@ int main(){
 
     int choice;
     int time;
-    while(0){
-        printchoice();
+    while(9900){        printchoice();
         cin>>choice;
         switch(choice){
         case 0:
