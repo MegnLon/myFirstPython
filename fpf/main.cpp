@@ -72,7 +72,7 @@ int main(){
 
     int choice;
     int time;
-    while(1){
+    while(0){
         printchoice();
         cin>>choice;
         switch(choice){
